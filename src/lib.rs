@@ -10,4 +10,5 @@ pub mod myepicproject {
     }
 }
 
+#[derive(Accounts)]
 pub struct StartStuffOff {}
